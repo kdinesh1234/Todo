@@ -1,0 +1,47 @@
+
+.card-title{
+  background-color: rgb(30, 151, 199);
+  margin-bottom: 1cap;
+}
+
+.text {
+  margin-bottom: 10cap;
+}
+
+.card-content{
+  text-align: left;
+  
+  justify-content: space-between;
+  
+}
+.card-subtitle{
+  text-align:right;
+}
+.container{
+   
+  display:flex;
+  width:14rem;
+  box-shadow: 10ch;
+  margin-left: 0px;
+  text-align:left;
+  
+
+
+}
+.card-body{
+  background-color: rgb(167, 212, 167);
+}
+
+.container1{
+  width:14rem;
+  text-align:left;
+   margin-right: 300px;
+   margin-top:-270px;
+}
+
+.container2{
+  width:14rem;
+  text-align:left;
+   margin-left: 300px;
+   margin-top: -250px;;
+}
